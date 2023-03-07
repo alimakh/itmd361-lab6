@@ -5,14 +5,11 @@
   background-color: blue;
   overflow: hidden;
 }
-#main-navbar {
-  /* existing styles */
-  text-align: center;
-}
 
 #navbar-container {
   position: relative;
   float: left;
+  text-align: center;
 }
 
 #main-navbar ul {
